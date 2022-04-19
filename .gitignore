@@ -1,0 +1,44 @@
+# ======== 1_bayesian_mnist ======== #
+# tmp files
+1_bayesian_mnist/checkpoints/*
+1_bayesian_mnist/data/*
+1_bayesian_mnist/outputs/*
+
+# compiled files
+1_bayesian_mnist/*.pyc
+
+# backup and cache files
+1_bayesian_mnist/*~
+1_bayesian_mnist/__pycache__
+
+# project files
+1_bayesian_mnist/.spyproject
+
+
+# ======== 2_sparse_measure ======== #
+# tmp files
+2_sparse_measure/outputs/*
+
+# compiled files
+2_sparse_measure/*.pyc
+
+# backup and cache files
+2_sparse_measure/*~
+2_sparse_measure/__pycache__
+
+# project files
+2_sparse_measure/.spyproject
+2_sparse_measure/.directory
+
+# ======== 3_paperfold ======== #
+# tmp files
+3_paperfold/outputs/*
+
+# Python generated files
+3_paperfold/*.pkl
+3_paperfold/*.pyc
+3_paperfold/__pycache__/*
+3_paperfold/.spyproject/*
+
+# system files
+3_paperfold/.directory
